@@ -1,0 +1,20 @@
+POCKET — EXPENSE TRACKER WEB APP
+
+Open this entire folder in PyCharm.
+
+In PyCharm's Terminal, from this folder, run:
+
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+
+On a Mac, use python3 if python is not found.
+Open the local URL printed in the terminal.
+
+IMPORTANT: Start with the Streamlit command above, not the normal Run button.
+Keep app.py and tracker.py together.
+
+The app stores data only in the current browser session.
+Download the CSV before closing/refreshing. Upload it to restore expenses.
+
+Your original terminal project is unchanged.
+README.md includes the learning walkthrough and free deployment instructions.
